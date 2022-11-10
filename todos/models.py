@@ -1,6 +1,7 @@
 from django.db import models
 
 class Todo(models.Model):
+    id = models.AutoField(primary_key=True)
     title = models.CharField(max_length=100)
     created_at = models.DateTimeField('Created', auto_now_add=True)
     update_at = models.DateTimeField('Updated', auto_now=True)
