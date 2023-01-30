@@ -2,7 +2,7 @@
 A simple todo app built with django
 
 ## Architecture
-![image](https://user-images.githubusercontent.com/98258627/215500225-deb1ba32-e621-459b-af96-241f1f403c2e.png)
+![image](https://user-images.githubusercontent.com/98258627/215501005-a4f6090e-cc0d-47b9-ab57-aaeb95edb8d2.png)
 
 
 ## UI
