@@ -1,4 +1,4 @@
-# # Django Todo App Deployment with Kuberntes and AWS
+## Django Todo App Deployment with Kuberntes and AWS
 
 A todo application built with Django and React .
 
