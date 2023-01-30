@@ -93,7 +93,7 @@ kubectl apply -f service.yaml
 1.  Get the IP address of the Minikube service by running the following command:
 
 ```
-minikube service <service-name> --url
+minikube service todo-service --url
 ```
 
 2.  Run a `curl` command to access the application:
