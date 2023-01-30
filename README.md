@@ -1,8 +1,9 @@
-# django-todo
+# Django Todo App Deployment with Kuberntes and AWS
 A simple todo app built with django
 
 ## Architecture
-![wc-kube-aws-flat](https://user-images.githubusercontent.com/98258627/215383696-7515bc8c-b9a1-4467-8980-a286322e6e82.png)
+![image](https://user-images.githubusercontent.com/98258627/215500225-deb1ba32-e621-459b-af96-241f1f403c2e.png)
+
 
 ## UI
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
