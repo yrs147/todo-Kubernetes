@@ -113,7 +113,7 @@ That's it! Your project should now be up and running 😄.
 
 ## Integrating with Jenkins for CICD
 
-You can also integrate it with Jenkins for Continous Integration and continueous Deployment 
+You can also integrate it with Jenkins for Continuous Integration and Continuous Deployment loop
 This involves the following steps:
 
 1.  Install Jenkins on the server where you want to run the CICD pipeline.
