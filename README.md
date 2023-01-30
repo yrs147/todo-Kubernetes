@@ -1,6 +1,10 @@
 # django-todo
 A simple todo app built with django
 
+## Architecture
+![wc-kube-aws-flat](https://user-images.githubusercontent.com/98258627/215383696-7515bc8c-b9a1-4467-8980-a286322e6e82.png)
+
+## UI
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
